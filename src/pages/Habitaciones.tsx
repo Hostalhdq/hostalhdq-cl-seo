@@ -41,25 +41,9 @@ const rooms = [
     ]
   },
   {
-    title: "Habitación Familiar",
-    price: "$65.000",
-    capacity: "3-4 personas",
-    image: habitacionFamiliar,
-    amenities: [
-      "Camas para 3-4 personas",
-      "Baño privado amplio",
-      "TV cable",
-      "WiFi",
-      "Frigobar grande",
-      "Microondas",
-      "Hervidor eléctrico",
-      "Ventilador"
-    ]
-  },
-  {
     title: "Habitación Grupal",
     price: "$80.000",
-    capacity: "Hasta 6 personas",
+    capacity: "4 personas +$10.000 P/Persona Extra",
     image: habitacionGrupal,
     amenities: [
       "6 camas individuales",
