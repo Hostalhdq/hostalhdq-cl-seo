@@ -11,10 +11,10 @@ const rooms = [
   {
     title: "Habitación Doble Matrimonial",
     price: "$40.000",
-    capacity: "1 persona",
+    capacity: "Hasta 2 personas",
     image: habitacionIndividual,
     amenities: [
-      "1 cama plaza",
+      "1 cama matrimonial",
       "Baño privado",
       "TV cable",
       "WiFi",
@@ -27,10 +27,10 @@ const rooms = [
   {
     title: "Habitación Doble 2 Camas",
     price: "$50.000",
-    capacity: "2 personas",
+    capacity: "Hasta 2 personas",
     image: habitacionDoble,
     amenities: [
-      "Cama matrimonial o 2 plazas",
+      "2 camas individuales",
       "Baño privado",
       "TV cable",
       "WiFi",
@@ -46,7 +46,7 @@ const rooms = [
     capacity: "4 personas +$10.000 P/Persona Extra",
     image: habitacionGrupal,
     amenities: [
-      "6 camas individuales",
+      "4 camas individuales o 3 camas matrimoniales",
       "Baño privado",
       "TV cable",
       "WiFi",
