@@ -25,7 +25,7 @@ const rooms = [
     ]
   },
   {
-    title: "Habitación Doble camas",
+    title: "Habitación Doble 2 Camas",
     price: "$50.000",
     capacity: "2 personas",
     image: habitacionDoble,
