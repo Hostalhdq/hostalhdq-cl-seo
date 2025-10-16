@@ -9,7 +9,7 @@ import habitacionGrupal from '@/assets/habitacion-grupal.jpg';
 
 const rooms = [
   {
-    title: "Habitación Individual",
+    title: "Habitación Doble Matrimonial",
     price: "$40.000",
     capacity: "1 persona",
     image: habitacionIndividual,
@@ -25,7 +25,7 @@ const rooms = [
     ]
   },
   {
-    title: "Habitación Doble",
+    title: "Habitación Doble camas",
     price: "$50.000",
     capacity: "2 personas",
     image: habitacionDoble,
